@@ -1,0 +1,19 @@
+body {
+    background-color: #000d1a;
+    color: #fff;
+    font-family: 'Muli', sans-serif;
+}
+
+
+/* .container {
+    display: flex;
+    align-items: center;
+} */
+
+.row-padding {
+    padding: 20px;
+}
+
+h2 {
+    font-size: 25px;
+}
